@@ -1,5 +1,5 @@
 # AutoComplete-WooCommerce-Virtual-Products
-WordPress Snippet 
+WooCommerce Snippet
 
 About: Set the Processing Status of a Virtual Product to be Autocomplete after purchase to allow user access or download.
 
